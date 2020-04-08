@@ -1,4 +1,4 @@
-baseURL = "linvi.github.io/tweetinvi.docs/"
+baseURL = "/"
 title = "Tweetinvi"
 publishDir = ".."
 
