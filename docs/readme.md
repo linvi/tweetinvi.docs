@@ -6,7 +6,8 @@
 # Build Html content
 
 ``` sh
-make html
+cd docs
+make github
 ```
 
 # Tutorial

@@ -24,8 +24,7 @@ copyright = '2020, linvi'
 author = 'linvi'
 
 # The full version, including alpha/beta/rc tags
-release = '5.0'
-
+release = '5.0' # may also be an URL
 
 # -- General configuration ---------------------------------------------------
 
@@ -60,3 +59,14 @@ html_theme_path = ["_themes", ]
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_sources_path = ['sources']
+
+html_css_files = [
+    'css/custom.css',
+]
+
+# This forces a refresh of the static content on every build
+def env_get_outdated(app, env, added, changed, removed):
+    return ['index']
+
+def setup(app):
+    app.connect('env-get-outdated', env_get_outdated)
