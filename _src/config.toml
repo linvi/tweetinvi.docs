@@ -1,6 +1,6 @@
 baseURL = "https://linvi.github.io/tweetinvi.docs/"
 title = "Tweetinvi"
-publishDir = "../docs"
+publishDir = "../"
 
 enableRobotsTXT = true
 

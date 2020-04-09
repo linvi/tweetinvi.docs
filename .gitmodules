@@ -1,3 +1,3 @@
-[submodule "src/themes/docsy"]
-	path = src/themes/docsy
+[submodule "_src/themes/docsy"]
+	path = _src/themes/docsy
 	url = https://github.com/linvi/docsy.git

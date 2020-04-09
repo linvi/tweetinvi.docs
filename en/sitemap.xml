@@ -4,82 +4,89 @@
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/overview/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/beds/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/getting-started/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/examples/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tutorials/multi-bear/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/porridge/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/concepts/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/task/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tutorials/tutorial2/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/tutorials/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/reference/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/contribution-guidelines/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/blog/news/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/blog/releases/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/docs/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -93,68 +100,18 @@
   </url>
   
   <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/blog/news/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/blog/releases/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://linvi.github.io/tweetinvi.docs/blog/2018/10/06/easy-documentation-with-docsy/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/blog/2018/10/06/the-second-blog-post/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/blog/2018/01/04/another-great-release/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/docs/getting-started/example-page/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/docs/reference/parameter-reference/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/ponycopters/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/index.json</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/about/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/blog/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linvi.github.io/tweetinvi.docs/community/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://linvi.github.io/tweetinvi.docs/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -168,8 +125,44 @@
   </url>
   
   <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/blog/2018/10/06/the-second-blog-post/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/blog/2018/01/04/another-great-release/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/docs/getting-started/example-page/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/docs/reference/parameter-reference/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/docs/tasks/ponycopters/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://linvi.github.io/tweetinvi.docs/community/</loc>
+  </url>
+  
+  <url>
     <loc>https://linvi.github.io/tweetinvi.docs/search/</loc>
-    <lastmod>2020-04-08T21:59:01+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
